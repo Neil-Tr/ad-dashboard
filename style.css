@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.icon {
+    width: 1.5rem;
+    height: auto;
+}
+
+.icon.dashboard {
+    width: 3rem;
+    height: auto;
+}
+p.dashboard {
+    font-size: 2rem;
+}
+
+#top-avatar,
+.trending>img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 2rem;
+}
+
+#bottom-avatar {
+    width: 5rem;
+    height: 5rem; 
+    border-radius: 3rem;
+}
+
